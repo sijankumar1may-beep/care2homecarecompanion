@@ -1,0 +1,1 @@
+export const MIN_COMPANION_HOURLY_RATE_INR = 100;
